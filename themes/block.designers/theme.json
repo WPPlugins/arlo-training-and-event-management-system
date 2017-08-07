@@ -1,0 +1,17 @@
+{
+    "version": 1.2,
+    "order": 6,
+    "name": "Block",
+    "description": "Design includes key information displayed within boxes",
+    "forDesigners": true,
+    "demoUrl": "",
+    "externalResources": {
+        "stylesheets": [
+            "https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i,900,900i"
+        ],
+        "javascripts": []
+    },
+    "images": [
+        "/images/block1.png"
+    ]
+}
